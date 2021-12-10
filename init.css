@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(0,0,170);
+}
+
+.TopClass{
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+#paragraph{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
